@@ -1,0 +1,53 @@
+{
+  "CTk": {
+    "color_scale": 1.0,
+    "color_theme": {
+      "primary_color": ["#9D4EDD", "#7B2CBF"],
+      "secondary_color": ["#3C096C", "#240046"],
+      "accent_color": ["#5A189A", "#7B2CBF"],
+      "text_color": ["#EDEAFF", "#D0BFFF"],
+      "background_color": ["#0D001A", "#150022"]
+    },
+    "fonts": {
+      "header": {
+        "family": "Segoe UI",
+        "size": 24,
+        "weight": "bold"
+      },
+      "subheader": {
+        "family": "Segoe UI",
+        "size": 18,
+        "weight": "bold"
+      },
+      "body": {
+        "family": "Segoe UI",
+        "size": 14
+      }
+    },
+    "button": {
+      "corner_radius": 12,
+      "border_width": 2,
+      "fg_color": ["#7B2CBF", "#5A189A"],
+      "hover_color": ["#9D4EDD", "#7B2CBF"],
+      "text_color": ["#FFFFFF", "#EDEAFF"]
+    },
+    "entry": {
+      "corner_radius": 10,
+      "border_width": 2,
+      "fg_color": ["#240046", "#3C096C"],
+      "text_color": ["#FFFFFF", "#D0BFFF"],
+      "placeholder_color": "#A06EC9"
+    },
+    "frame": {
+      "corner_radius": 14,
+      "fg_color": ["#150022", "#0D001A"]
+    },
+    "label": {
+      "text_color": ["#EDEAFF", "#D0BFFF"]
+    },
+    "progressbar": {
+      "fg_color": ["#3C096C", "#240046"],
+      "progress_color": ["#9D4EDD", "#7B2CBF"]
+    }
+  }
+}
